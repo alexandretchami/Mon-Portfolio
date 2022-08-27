@@ -372,12 +372,12 @@ $user_data = mysqli_fetch_array($run);
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/pokemon-img.png" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/pokemon-img.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Jeux de cartes pokémon</h4>
               <p>Bienvenue dans l'univers Pokèmon</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/pokemon-img.png data-gallery=" portfolioGallery"
+                <a href="assets/img/portfolio/pokemon-img.jpg data-gallery=" portfolioGallery"
                   class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="https://jocular-cassata-025b43.netlify.app/" data-gallery="portfolioDetailsGallery"
                   data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i
@@ -389,13 +389,13 @@ $user_data = mysqli_fetch_array($run);
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/reactportfolio.png" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/reactportfolio.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Mon portfolio en React</h4>
               <p>React portfolio</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/etsCambois.jpg data-gallery=" portfolioGallery" class="portfolio-lightbox"
-                  title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/reactportfolio.jpg data-gallery=" portfolioGallery"
+                  class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="https://tchamidevs.alwaysdata.net/" data-gallery="portfolioDetailsGallery"
                   data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i
                     class="bx bx-link"></i></a>
@@ -406,12 +406,12 @@ $user_data = mysqli_fetch_array($run);
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/restaurantpizza.png" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/restaurantpizza.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Restaurant pizza</h4>
               <p>Site de vente de pizza</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/restaurantpizza.png data-gallery=" portfolioGallery"
+                <a href="assets/img/portfolio/restaurantpizza.jpg data-gallery=" portfolioGallery"
                   class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="https://alexandretchami.github.io/restaurant/" data-gallery="portfolioDetailsGallery"
                   data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i
