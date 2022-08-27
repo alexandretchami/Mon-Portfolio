@@ -350,16 +350,6 @@ $user_data = mysqli_fetch_array($run);
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <img src="images/<?php echo $user_data['profile_pic']; ?>" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                  class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                  class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
           </div>
         </div>
 
@@ -413,6 +403,41 @@ $user_data = mysqli_fetch_array($run);
             </div>
           </div>
         </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/restaurantpizza.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Restaurant pizza</h4>
+              <p>Site de vente de pizza</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/restaurantpizza.png data-gallery=" portfolioGallery"
+                  class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="https://alexandretchami.github.io/restaurant/" data-gallery="portfolioDetailsGallery"
+                  data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i
+                    class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/pierrefc.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Chi Fou Mi</h4>
+              <p>Pierre Feuille Ciseaux</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/pierrefc.jpg data-gallery=" portfolioGallery" class="portfolio-lightbox"
+                  title="App"><i class="bx bx-plus"></i></a>
+                <a href="https://alexandretchami.github.io/Shifumi/" data-gallery="portfolioDetailsGallery"
+                  data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i
+                    class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
 
       </div>
 
